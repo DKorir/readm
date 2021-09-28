@@ -32,6 +32,6 @@ The table below contains the lessons we are learning in the second week;
 ![Selectors](https://www.tutorialbrain.com/wp-content/uploads/2019/03/CSS-Selectors.png)
 
 ### Conclusion
-The pair of students studies the content on LMS together and did more research on the topics. 
+The pair of students studied the content on LMS together and did more research on the topics. 
 
 
